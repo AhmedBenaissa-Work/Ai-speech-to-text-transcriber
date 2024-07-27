@@ -1,0 +1,13 @@
+openai
+SpeechRecognition
+pydub
+python-dotenv
+ffmpeg-python
+librosa
+numpy
+datetime
+srt
+Flask
+openpyxl
+boto3
+iso-639
